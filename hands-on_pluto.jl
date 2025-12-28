@@ -127,7 +127,7 @@ for n=2:150
     end
 end
 	scatter(x,
-		 ylim=(1,1000),
+		 ylim=(1,2000),
 		 title="Collatz sequence x[n] with x[1]=$m",
 		 xlabel=L"n",
 		 ylabel=L"x[n]",
